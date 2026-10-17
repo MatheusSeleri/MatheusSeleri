@@ -35,6 +35,8 @@ Research examining the environmental impact of China's exports, comparing mariti
 
 The study integrates **international trade, data analytics, network analysis, and sustainability** to support a comparative understanding of transport-related emissions.
 
+---
+
 ### Bachelor's in International Trade and Economic Relations
 
 **Coimbra Business School | ISCAC**
@@ -65,7 +67,7 @@ Research focused on analysing the carbon footprint of China's exports (2020–20
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
 
 **Business Intelligence & Reporting**
 
