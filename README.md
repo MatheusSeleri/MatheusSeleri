@@ -1,107 +1,58 @@
-# Hi, I'm Matheus! 👋
 
-**Business & Data Analytics | International Trade & Economic Relations**
+<div align="center">
 
-## 👨‍💻 About Me
+# Matheus Celerio dos Santos
 
-I'm a final-stage **Master's student in Data Analysis and Decision Support Systems** at Coimbra Business School (ISCAC), with a Bachelor's degree in **International Trade and Economic Relations**.
+### Business & Data Analytics · Supply Chain & Operations · International Trade
 
-My background brings together **business, economics, finance, and data analytics**, allowing me to approach data from both technical and business perspectives.
+Turning data into actionable insights to support smarter business decisions.
 
-Throughout my academic journey, I've worked on projects involving **predictive modelling, time-series forecasting, statistical analysis, and network analysis**, applying analytical techniques to different business and economic problems.
-
-I'm particularly interested in **Business Intelligence, Data Analytics, Supply Chain, and Financial Analytics**, with a focus on turning complex data into meaningful insights that support better decision-making.
+</div>
 
 ---
 
+## About me
+
+Master's candidate in **Data Analysis and Decision Support Systems** at Coimbra Business School (ISCAC), with a Bachelor's degree in **International Trade and Economic Relations**.
+
+My background combines **business, economics, management and data analytics**, with a particular interest in **Business Intelligence, Supply Chain, Logistics and Operations Analytics**.
+
+Currently developing a portfolio focused on applying **Python, SQL, Excel and Power BI** to real-world business challenges, connecting analytical thinking with operational performance and data-driven decision-making.
 
 ---
 
-## 🎓 Academic Background
+## 🛠️ Tools & Skills
 
-### Master's in Data Analysis and Decision Support Systems
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+</p>
 
-**Coimbra Business School | ISCAC**
+**Data Analysis:** Python · Pandas · Data Cleaning · Exploratory Data Analysis
 
-*Final-stage Master's candidate*
+**Business Intelligence:** Power BI · Excel · Data Visualisation · KPI Reporting
 
-Academic work focused on data analysis, statistical modelling, predictive techniques, optimisation, and decision support.
-
-**Master's Dissertation — In Progress**
-
-*Carbon Footprint Analysis of China's Commercial Exports: A Comparison of Transport Modes Using Network and Data Analysis*
-
-Research examining the environmental impact of China's exports, comparing maritime, air, road, and rail transport through international trade data, estimated transport distances, and emissions factors.
-
-The study integrates **international trade, data analytics, network analysis, and sustainability** to support a comparative understanding of transport-related emissions.
+**Analytics:** Statistical Analysis · Forecasting · Predictive Modelling · Decision Support
 
 ---
 
-### Bachelor's in International Trade and Economic Relations
+## 📊 Featured Projects
 
-**Coimbra Business School | ISCAC**
+| Project | Focus | Status |
+|---|---|---|
+| **China Trade Carbon Footprint** | Master's Thesis · Python · International Trade · Logistics & Sustainability Analytics | 🔄 In Progress |
+| **Supplier Performance & Risk Segmentation** | Python · Data Mining · Clustering · Procurement Analytics | 📋 Planned |
+| **Supply Chain Operations Analytics** | SQL · Data Modelling · Inventory · Logistics & Operational KPIs | 📋 Planned |
+| **Supply Chain Control Tower** | Power BI · Excel · Power Query · Power Pivot · Performance Reporting | 📋 Planned |
 
-Developed a foundation in **economics, finance, management, international trade, and business processes**, with an understanding of how organisations operate in global markets.
-
-This background complements my analytical training by connecting quantitative methods with business and economic decision-making.
-
----
-
-## 📊 Selected Academic Projects
-
-### 🌍 Master's Dissertation — In Progress
-**Carbon Footprint Analysis of China's Commercial Exports: A Comparison of Transport Modes Using Network and Data Analysis**
-
-*Python | International Trade | Network Analysis | Sustainability*
-
-Research focused on analysing the carbon footprint of China's exports (2020–2024), comparing maritime, air, road, and rail transportation. The study combines international trade data, estimated transport distances, and emission factors to assess environmental impacts across transport modes, integrating data analytics with international trade and sustainability.
-
-📌 **Coming Soon:** Project methodology, data analysis, visualisations, and key findings will be shared on GitHub upon completion.
-.
-
----
-
-## 🛠️ Technical Skills
-
-**Programming & Data Analysis**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white)
-
-
-**Business Intelligence & Reporting**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logoColor=white)
-
-**Network Analysis**
-
-![Gephi](https://img.shields.io/badge/Gephi-5A54A4?style=for-the-badge&logoColor=white)
-
-**Analytical Methods**
-
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Validation
-- Statistical Analysis & Regression
-- Predictive Modelling
-- Time-Series Forecasting
-- Data Visualisation & Reporting
-- KPI Analysis & Decision Support
+> 🚧 Portfolio under development. My Master's dissertation is currently in progress, and additional projects will be developed and published progressively.
 
 ---
 
 ## 🎯 Areas of Interest
 
-**Business Intelligence & Data Analytics** — Business performance, reporting, and data-driven decision-making.
+`Business Analytics` · `Data Analytics` · `Business Intelligence` · `Supply Chain` · `Logistics` · `Operations Analytics` · `International Trade`
 
-**Supply Chain & Operations Analytics** — Logistics performance, operational KPIs, and process improvement.
-
-**Financial & Risk Analytics** — Financial data analysis, data quality, and risk assessment.
-
-**International Trade & Sustainability** — Global trade analysis, transportation networks, and environmental impact.
-
----
-
-### 💡 My Approach
-
-*Understanding business problems, exploring data, identifying patterns, and communicating insights that support better decisions.*
